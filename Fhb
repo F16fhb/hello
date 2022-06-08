@@ -1,6 +1,6 @@
 Meu teste  inicial. 
 
-#include <studio.h>
+#include <stdio.h>
 Int main (void)
 {
 Prinft ("hello, world! \n");
