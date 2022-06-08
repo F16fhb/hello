@@ -3,7 +3,7 @@ Meu teste  inicial.
 #include <studio.h>
 Int main (void)
 {
-Prinft ("hello, world!/n");
+Prinft ("hello, world! \n");
 }
 
 
